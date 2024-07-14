@@ -9,7 +9,7 @@ const initialState = {
 };
 export const Contact = (props) => {
   const [{ name, email, message }, setState] = useState(initialState);
-
+  const [ textButton, setTextButton ] = useState("Enviar");
   const handleChange = (e) => {
     const { name, value } = e.target;
     setState((prevState) => ({ ...prevState, [name]: value }));
@@ -24,13 +24,15 @@ export const Contact = (props) => {
     {/* replace below with your own Service ID, Template ID and Public Key from your EmailJS account */ }
     
     emailjs
-      .sendForm("YOUR_SERVICE_ID", "YOUR_TEMPLATE_ID", e.target, "YOUR_PUBLIC_KEY")
+      .sendForm("default_service", "template_085ihoa", e.target, "ZImBVJpi19LozqG4Y")
       .then(
         (result) => {
           console.log(result.text);
+          setTextButton("Mensaje enviado");
           clearState();
         },
         (error) => {
+          setTextButton("Intentalo más tarde");
           console.log(error.text);
         }
       );
@@ -42,10 +44,9 @@ export const Contact = (props) => {
           <div className="col-md-8">
             <div className="row">
               <div className="section-title">
-                <h2>Get In Touch</h2>
+                <h2>Contactanos</h2>
                 <p>
-                  Please fill out the form below to send us an email and we will
-                  get back to you as soon as possible.
+                  Por favor llena el formulario y nos pondremos en contacto
                 </p>
               </div>
               <form name="sentMessage" validate onSubmit={handleSubmit}>
@@ -93,17 +94,17 @@ export const Contact = (props) => {
                 </div>
                 <div id="success"></div>
                 <button type="submit" className="btn btn-custom btn-lg">
-                  Send Message
+                  {textButton}
                 </button>
               </form>
             </div>
           </div>
           <div className="col-md-3 col-md-offset-1 contact-info">
             <div className="contact-item">
-              <h3>Contact Info</h3>
+              <h3>Información de contacto</h3>
               <p>
                 <span>
-                  <i className="fa fa-map-marker"></i> Address
+                  <i className="fa fa-map-marker"></i> Dirección
                 </span>
                 {props.data ? props.data.address : "loading"}
               </p>
@@ -111,7 +112,7 @@ export const Contact = (props) => {
             <div className="contact-item">
               <p>
                 <span>
-                  <i className="fa fa-phone"></i> Phone
+                  <i className="fa fa-phone"></i> Telefono
                 </span>{" "}
                 {props.data ? props.data.phone : "loading"}
               </p>
@@ -153,10 +154,7 @@ export const Contact = (props) => {
       <div id="footer">
         <div className="container text-center">
           <p>
-            &copy; 2023 Issaaf Kattan React Land Page Template. Design by{" "}
-            <a href="http://www.templatewire.com" rel="nofollow">
-              TemplateWire
-            </a>
+            &copy; 2023 DuoTech Design{" "}
           </p>
         </div>
       </div>

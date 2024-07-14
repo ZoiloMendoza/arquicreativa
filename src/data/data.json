@@ -1,184 +1,185 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "Transformamos ideas en espacios extraordinarios",
+    "paragraph": "En ArquiCreativa, nos dedicamos a diseñar espacios innovadores y funcionales que mejoren la calidad de vida de las personas. Creemos en la combinación perfecta entre estética y funcionalidad, y nos esforzamos por crear proyectos que reflejen los sueños y aspiraciones de nuestros clientes."
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "En ArquiCreativa, nos enorgullece ofrecer soluciones arquitectónicas que combinan creatividad, sostenibilidad y funcionalidad. Nuestro equipo está comprometido en cada etapa del proceso, desde la concepción del diseño hasta la ejecución final, asegurando la más alta calidad y atención a los detalles.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Innovación en cada proyecto",
+      "Compromiso con la sostenibilidad",
+      "Atención personalizada",
+      "Diseños funcionales y estéticos"
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "Uso de materiales sostenibles",
+      "Alta calidad en construcción",
+      "Proyectos a medida",
+      "Transformación de espacios urbanos"
     ]
   },
   "Gallery": [
     {
-      "title": "Project Title",
+      "title": "Residencia Moderna",
       "largeImage": "img/portfolio/01-large.jpg",
       "smallImage": "img/portfolio/01-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Oficinas Corporativas",
       "largeImage": "img/portfolio/02-large.jpg",
       "smallImage": "img/portfolio/02-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Centro Comercial",
       "largeImage": "img/portfolio/03-large.jpg",
       "smallImage": "img/portfolio/03-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Edificio Residencial",
       "largeImage": "img/portfolio/04-large.jpg",
       "smallImage": "img/portfolio/04-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Casa de Campo",
       "largeImage": "img/portfolio/05-large.jpg",
       "smallImage": "img/portfolio/05-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Hotel Boutique",
       "largeImage": "img/portfolio/06-large.jpg",
       "smallImage": "img/portfolio/06-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Pabellón de Exposiciones",
       "largeImage": "img/portfolio/07-large.jpg",
       "smallImage": "img/portfolio/07-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Centro Cultural",
       "largeImage": "img/portfolio/08-large.jpg",
       "smallImage": "img/portfolio/08-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Espacio Público",
       "largeImage": "img/portfolio/09-large.jpg",
       "smallImage": "img/portfolio/09-small.jpg"
     }
   ],
   "Services": [
     {
-      "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-pencil",
+      "name": "Diseño Arquitectónico",
+      "text": "Creación de planos y maquetas que reflejan la visión del cliente."
     },
     {
-      "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-building",
+      "name": "Planificación Urbana",
+      "text": "Desarrollo de proyectos a gran escala que transforman."
     },
     {
-      "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-home",
+      "name": "Renovación y Remodelación",
+      "text": "Actualización de espacios existentes para mejorar su funcionalidad y estética."
     },
     {
-      "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-briefcase",
+      "name": "Consultoría",
+      "text": "Asesoramiento especializado en todas las etapas del proceso de construcción y diseño."
     },
     {
-      "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-leaf",
+      "name": "Diseño Sostenible",
+      "text": "Incorporación de prácticas ecológicas y materiales sostenibles en nuestros proyectos."
     },
     {
-      "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-puzzle-piece",
+      "name": "Soluciones Personalizadas",
+      "text": "Creación de proyectos únicos que se adaptan a las necesidades."
     }
   ],
   "Testimonials": [
     {
       "img": "img/testimonials/01.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "\"ArquiCreativa transformó nuestras ideas en un espacio hermoso y funcional. Su atención al detalle y compromiso con la calidad son excepcionales.\"",
+      "name": "Carlos López"
     },
     {
       "img": "img/testimonials/02.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "\"El equipo de ArquiCreativa nos ayudó a revitalizar nuestro barrio con un diseño urbano innovador y sostenible. Estamos muy contentos con el resultado.\"",
+      "name": "María González"
     },
     {
       "img": "img/testimonials/03.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "\"Gracias a ArquiCreativa, nuestro nuevo hogar es exactamente lo que soñamos. Su creatividad y profesionalismo hicieron toda la diferencia.\"",
+      "name": "José Martínez"
     },
     {
       "img": "img/testimonials/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "\"La remodelación de nuestra oficina por parte de ArquiCreativa ha mejorado significativamente nuestro entorno de trabajo. Recomendamos sus servicios ampliamente.\"",
+      "name": "Ana Pérez"
     },
     {
       "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "\"Estamos impresionados con el diseño y ejecución de nuestro nuevo centro comercial por parte de ArquiCreativa. Superaron todas nuestras expectativas.\"",
+      "name": "Luis Ramírez"
     },
     {
       "img": "img/testimonials/06.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "\"ArquiCreativa combinó perfectamente funcionalidad y estética en nuestro proyecto de hotel boutique. Su trabajo es realmente excepcional.\"",
+      "name": "Laura Torres"
     }
   ],
   "Team": [
     {
       "img": "img/team/01.jpg",
-      "name": "John Doe",
+      "name": "Juan Pérez",
       "job": "Director"
     },
     {
       "img": "img/team/02.jpg",
-      "name": "Mike Doe",
-      "job": "Senior Designer"
+      "name": "Miguel Sánchez",
+      "job": "Diseñador Senior"
     },
     {
       "img": "img/team/03.jpg",
-      "name": "Jane Doe",
-      "job": "Senior Designer"
+      "name": "Ana Rodríguez",
+      "job": "Diseñadora Senior"
     },
     {
       "img": "img/team/04.jpg",
-      "name": "Karen Doe",
-      "job": "Project Manager"
+      "name": "Karina Fernández",
+      "job": "Gerente de Proyectos"
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
-    "facebook": "fb.com",
-    "twitter": "twitter.com",
-    "youtube": "youtube.com"
+    "address": "Monterrey, Nuevo León, México",
+    "phone": "+52 81 2384 2401",
+    "email": "info@duotechdesign.com",
+    "facebook": "#",
+    "twitter": "#",
+    "youtube": "#"
   },
   "Features": [
-    {
-      "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-    },
+   
     {
       "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Proyectos Personalizados",
+      "text": "Diseñamos cada proyecto de acuerdo a las necesidades."
     },
     {
       "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Equipo Profesional",
+      "text": "Contamos con un equipo de profesionales altamente calificados."
     },
     {
       "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Soluciones Creativas",
+      "text": "Nos destacamos por ofrecer soluciones creativas e innovadoras."
+    },
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Comunicación Clara",
+      "text": "Nos aseguramos de mantener una comunicación clara y constante."
     }
   ]
 }
